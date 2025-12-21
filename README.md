@@ -1,4 +1,5 @@
 ##          Gimiter
+A rate-limiter in Go
 
 ![Contributors](https://img.shields.io/github/contributors/iamsparkedev/gimiter)
 ![Forks](https://img.shields.io/github/forks/iamsparkedev/gimiter?style=social)
